@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/shikikan/wallpaper/VpIW27p.png"
+let background = "#fefefc"
+let foreground = "#363B69"
+let cursor     = "#363B69"
+
+" Colors
+let color0  = "#fefefc"
+let color1  = "#D8B0CF"
+let color2  = "#B6D6EC"
+let color3  = "#ACDBF9"
+let color4  = "#D6D0DD"
+let color5  = "#FFCFDB"
+let color6  = "#F0D7E5"
+let color7  = "#363B69"
+let color8  = "#97978f"
+let color9  = "#D8B0CF"
+let color10 = "#B6D6EC"
+let color11 = "#ACDBF9"
+let color12 = "#D6D0DD"
+let color13 = "#FFCFDB"
+let color14 = "#F0D7E5"
+let color15 = "#363B69"

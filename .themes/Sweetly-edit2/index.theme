@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Sweetly-edit2
+Comment=A Flat Material Light GTK Theme (C) 2020-2021 owl4ce
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Sweetly-edit2
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
